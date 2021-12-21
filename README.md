@@ -1,18 +1,18 @@
-# java-guide
-A guide to modern Java (Java 17)
+# Guia Java
+Um guia moderno para o Java (Java 17)
 
-This guide is about learning Java from scratch if you know a bit of C or JavaScript.
+Este guia pode ser usado para aprender Java do início se você souber um pouco de C ou JavaScript.
 
-This is a Work in progress, it should be ready when the next LTS of Java (Java 17) will be released.
-All the codes run with Java 14 with the preview features enabled.
+Este é um trabalho em andamento, deve estar pronto quando a próxima versão LTS do Java (Java 17) for lançada.
+Todo o código roda com Java 14 com as funcionalidades _preview_ habilitadas.
 
-> Note: if you are looking to only what's new in Java 14
-> [I have set of slides for that](https://github.com/forax/do-synthetic-methods-dream-of-electric-switch-expressions).
+> Nota: se você está apenas procurando o que existe de novo no Java 14
+> [veja esses slides](https://github.com/forax/do-synthetic-methods-dream-of-electric-switch-expressions).
 
 
-## Content
+## Conteúdo
 
-0. [genesis.md](guide/chapter00-genesis.md)
+0. [Gênesis](guide/chapter00-genesis.md)
 1. [basic_types.md](guide/chapter01-basic_types.md)
 2. [methods.md](guide/chapter02-methods.md)
 3. [jshell_vs_java.md](guide/chapter03-jshell_vs_java.md)
