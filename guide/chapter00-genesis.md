@@ -1,8 +1,8 @@
-# Genesis
-In Java, there is strong division between primitive types like double that are written in lower case and
-objects like String that have a name that starts with an uppercase letter.
+# Gênesis
+No Java, há uma forte divisão entre tipos primitivos como double que são escritos com letras minúsculas e
+objetos como String que tem o nome iniciado com letra maúscula.
 
-## Types
+## Tipos
 A primitive type is stored as value while an object is stored as
 a reference (the address of the object in memory).
 In Java, `var` creates a new variable
